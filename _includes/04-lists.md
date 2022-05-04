@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Bananas 🍌
+2. Apples 🍎
+3. Happiness 😄
